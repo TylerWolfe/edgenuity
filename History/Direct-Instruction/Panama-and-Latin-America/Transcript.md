@@ -1,31 +1,16 @@
-Section 1
-00:00:02
+##Section 1
+
 There was strong support in the United States for building a canal across Central America, but agreeing that such a canal was needed was only the first step. Building the canal would require a major shift in US policy toward Latin America. American leaders had to decide where to build the canal, find a way to require the land, and overcome serious engineering obstacles before the Panama Canal could become a reality.
-Section 2
-00:00:00
-The two best locations to build a canal were in Panama or Nicaragua. A French company had already tried and failed to build a canal in Panama, giving up in 1889. In 1902, Congress chose Panama because the French company offered to sell the US the land and the building rights for the Panama Canal at a greatly reduced price. The Panama route was shorter.
-00:00:27
-The US Congress worried about the risks of volcanoes in Nicaragua. The Nicaraguan president assured the US there were no volcanoes, but then a US congressman produced a stamp from Nicaragua that showed an active volcano. Before construction could begin, US leaders needed Colombia's permission because Panama was part of Colombia at the time.
-00:00:49
-A treaty was nearly signed, but then Colombia's government demanded more money. With American encouragement, Panama declared its independence in 1903. President Roosevelt sent US Navy ships to keep Colombian troops from landing in Panama. This action helped Panama secure its independence. Colombia's leaders were outraged.
-00:01:11
-This political cartoon shows Roosevelt shoveling dirt onto the government of Colombia to build the canal. The US then signed a treaty in 1904 with the new nation of Panama.
-Section 4
-00:00:02
-Engineers and workers building the Panama Canal faced four major construction challenges. They had to blast and dig their way through the mountains of the Continental Divide. The Gaillard Cut seen here is more than eight miles long and ranges from 300 feet wide at the bottom to over 1,700 feet wide at the top. It took thousands of workers, dozens of steam shovels, and
-00:00:23
-over 60 million pounds of dynamite to complete. Landslides kept filling in the trench requiring more digging. Engineers also built giant locks-- mechanisms that use water to raise and lower ships so the ships could traverse the terrain. The jungle was very hot and humid with rainfall of more than 100 inches per year. Working in these conditions was exhausting.
-00:00:47
-Rainfall often caused flooding of the rivers, like the Chagres, slowing or halting construction work. Finally, the jungle mosquitoes carried deadly malaria and yellow fever that killed thousands of workers. The US took steps to fight these diseases by spraying areas where mosquitoes bred and by improving the quality of the water supply. By the time the Panama Canal was completed in 1914, it was
-00:01:14
-celebrated as an engineering marvel. One of the greatest construction projects of history, more than 56,000 workers helped build the canal. More than 5,500 of them died from disease or accidents. The Panama Canal is 50 miles long from the Atlantic to Pacific. It takes a ship about 10 hours on average to pass through.
-00:01:36
-Three sets of giant locks raise and lower the ships as they travel along the canal. Each lock chamber is 110 feet wide by 1,000 feet long. Engineers built an artificial lake to control flooding and provide a waterway for ships to travel across. The canal was a tremendous boost to the economy of the United States, making it cheaper to ship goods from Europe and the East Coast of the US to the West Coast.
-00:02:05
-About 1,000 ships carrying goods around the world used the canal the first year it opened. Today, the Panama Canal remains one of the major shipping routes in the world. In 2011, nearly 13,000 ships passed through it. In total, more than 1 million ships have passed through the Panama Canal since it opened in 1914. The canal is currently being enlarged so that even bigger
-00:02:31
-modern cargo ships will have the ability to use it.
-Section 6
+
+##Section 2
+
+The two best locations to build a canal were in Panama or Nicaragua. A French company had already tried and failed to build a canal in Panama, giving up in 1889. In 1902, Congress chose Panama because the French company offered to sell the US the land and the building rights for the Panama Canal at a greatly reduced price. The Panama route was shorter. The US Congress worried about the risks of volcanoes in Nicaragua. The Nicaraguan president assured the US there were no volcanoes, but then a US congressman produced a stamp from Nicaragua that showed an active volcano. Before construction could begin, US leaders needed Colombia's permission because Panama was part of Colombia at the time. A treaty was nearly signed, but then Colombia's government demanded more money. With American encouragement, Panama declared its independence in 1903. President Roosevelt sent US Navy ships to keep Colombian troops from landing in Panama. This action helped Panama secure its independence. Colombia's leaders were outraged. This political cartoon shows Roosevelt shoveling dirt onto the government of Colombia to build the canal. The US then signed a treaty in 1904 with the new nation of Panama.
+
+##Section 4
+
+Engineers and workers building the Panama Canal faced four major construction challenges. They had to blast and dig their way through the mountains of the Continental Divide. The Gaillard Cut seen here is more than eight miles long and ranges from 300 feet wide at the bottom to over 1,700 feet wide at the top. It took thousands of workers, dozens of steam shovels, and over 60 million pounds of dynamite to complete. Landslides kept filling in the trench requiring more digging. Engineers also built giant locks-- mechanisms that use water to raise and lower ships so the ships could traverse the terrain. The jungle was very hot and humid with rainfall of more than 100 inches per year. Working in these conditions was exhausting. Rainfall often caused flooding of the rivers, like the Chagres, slowing or halting construction work. Finally, the jungle mosquitoes carried deadly malaria and yellow fever that killed thousands of workers. The US took steps to fight these diseases by spraying areas where mosquitoes bred and by improving the quality of the water supply. By the time the Panama Canal was completed in 1914, it was celebrated as an engineering marvel. One of the greatest construction projects of history, more than 56,000 workers helped build the canal. More than 5,500 of them died from disease or accidents. The Panama Canal is 50 miles long from the Atlantic to Pacific. It takes a ship about 10 hours on average to pass through. Three sets of giant locks raise and lower the ships as they travel along the canal. Each lock chamber is 110 feet wide by 1,000 feet long. Engineers built an artificial lake to control flooding and provide a waterway for ships to travel across. The canal was a tremendous boost to the economy of the United States, making it cheaper to ship goods from Europe and the East Coast of the US to the West Coast. About 1,000 ships carrying goods around the world used the canal the first year it opened. Today, the Panama Canal remains one of the major shipping routes in the world. In 2011, nearly 13,000 ships passed through it. In total, more than 1 million ships have passed through the Panama Canal since it opened in 1914. The canal is currently being enlarged so that even bigger modern cargo ships will have the ability to use it.
+
+##Section 6
 00:00:02
 President Theodore Roosevelt's willingness to support Panama's Declaration of Independence from Colombia was just one example of his bold, and sometimes controversial, approach to diplomacy which became known as the Big Stick policy. First, let's take a look at the origins of that term.
 Section 7
