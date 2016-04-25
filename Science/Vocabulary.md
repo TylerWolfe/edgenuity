@@ -9,3 +9,6 @@ net force: A combination of all of the forces acting on an object.
 Newton's first law of motion: States that if the net force acting on an object is zero, the object will remain at rest or move in a straight line with a constant speed.
 
 unbalanced forces: Two or more forces acting on an object that do not cancel and cause the object to accelerate.
+
+acceleration: Equals the change in velocity divided by the time for the change to take place; occurs when an object speeds up, slows down or turns.
+
