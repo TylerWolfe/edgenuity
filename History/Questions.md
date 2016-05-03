@@ -13,3 +13,13 @@ Farmers had already had some success at the local level.
 
 Farmers wanted to affect national policy and enact needed reforms.
 
+**The People’s Party was founded to**
+
+be a Populist alternative to the Democratic and Republican Parties.
+
+**How did the Populist Party propose to deal with deflation?**
+
+mint more silver currency
+
+
+
