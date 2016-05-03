@@ -13,3 +13,10 @@
 **pull factor:** a factor that pulls a person who has left his or her homeland for a new country
 
 **push factor:** a factor that pushes a person out of his or her homeland
+
+###Farmers and Politics
+**bimetallism:** a system of currency based on two metals, usually gold and silver
+
+**gold standard:** a system by which money has a fixed value and can always be traded in for a specified amount of gold from the treasury
+
+**populism:** a political movement claiming to represent the common people
