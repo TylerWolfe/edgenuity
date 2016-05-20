@@ -20,3 +20,10 @@
 **gold standard:** a system by which money has a fixed value and can always be traded in for a specified amount of gold from the treasury
 
 **populism:** a political movement claiming to represent the common people
+
+###Women's Rights and Suffrage
+**abolition:** the fight to end slavery
+
+**suffrage:** the right to vote
+
+**temperance:** the abstention from alcoholic beverages
